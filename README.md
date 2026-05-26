@@ -1,4 +1,3 @@
-# MGM-SCRIPT
 
 # MGM Script
 
