@@ -1,0 +1,6 @@
+[
+  {
+    "user": "https://admin.parafuzo.com/users/67be3341421aa9000d6091e2",
+    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://admin.parafuzo.com/users/67be3341421aa9000d6091e2\", waiting until \"networkidle\"\u001b[22m\n"
+  }
+]
